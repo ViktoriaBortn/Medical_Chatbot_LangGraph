@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.env/
+venv/
+*.env
+.env
+*.key
+*.secret
+
+# API keys or config files
+config.yaml
+settings.json
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Test outputs
+*.coverage
+nosetests.xml
+coverage.xml
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# LangChain-specific
+langchain.db
+
+# Cache or temporary data
+cache/
+temp/
+
