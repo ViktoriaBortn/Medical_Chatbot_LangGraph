@@ -1,4 +1,4 @@
-# Medical Chatbot with LangGraph and LangChain
+# Medical сhatbot with LangGraph and LangChain
 
 This project demonstrates a **medical chatbot** that helps users analyze symptoms and provides potential causes and recommendations. It leverages **LangGraph** for managing state logic and **LangChain** for text generation using large language models (LLMs).
 
